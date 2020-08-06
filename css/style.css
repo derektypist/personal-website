@@ -10,3 +10,8 @@ body {
         padding-top: 135px;
     }
 }
+
+/* Navigation */
+.nav-link:hover {
+    background-color: lightgreen;
+}
