@@ -1,6 +1,14 @@
 /* Universal Styles */
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
+    padding-top: 75px;
+}
+
+@media (max-width: 576px) {
+    body {
+        font-family: "Roboto", Arial, Verdana, sans-serif;
+        padding-top: 195px;
+    }
 }
 
 /* Navigation */
