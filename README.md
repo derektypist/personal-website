@@ -19,6 +19,15 @@ As a user, I expect the navigation bar on every page.
 
 As a user, when I hover over the navigation links (e.g. Computing), I expect to change background colour.
 
+### Information Architecture
+
+The personal website consists of Computing and Holidays.
+
+In the Computing Page has computing groups (e.g. British Computer Society), office skills and programming.
+
+The Holidays Page has an image or alternate text.  Below that image or alternate text, there is a title (e.g. Paris)
+and description (e.g. Eiffel Tower in September 2015).
+
 ## Features
 
 Links to external web sites.  When the link is clicked, the external website is on another tab.
