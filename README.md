@@ -37,3 +37,10 @@ In future, I would have additional links (e.g. Meetups).
 ## Testing
 
 Ensure all the user stories have been met.
+
+## Technologies
+
+This project uses HTML5, CSS3 and Bootstrap 4.5.0.  The holidays page uses the card components.
+
+Additional technologies include Font Awesome 5.14.0 and Google Fonts (e.g. Roboto).
+
