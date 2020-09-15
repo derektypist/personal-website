@@ -31,6 +31,12 @@ body {
     color: purple;
 }
 
+/* Footer */
+footer {
+    background-color: lightblue;
+    padding: 5px;
+}
+
 /* Social Links */
 .social-links {
     padding-bottom: 15px;
