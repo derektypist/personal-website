@@ -19,7 +19,9 @@ As a user, I expect the navigation bar on every page.
 
 As a user, when I hover over the navigation links (e.g. Computing), I expect to change background colour.
 
-As a user, when I hover over the social links (e.g. YouTube), I expect to change background colour. 
+As a user, I expect the social links (e.g. YouTube) to be at the bottom of the page.
+
+As a user, when I hover over the social links (e.g. YouTube), I expect to change colour. 
 
 ### Information Architecture
 
