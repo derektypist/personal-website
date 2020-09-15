@@ -19,6 +19,8 @@ As a user, I expect the navigation bar on every page.
 
 As a user, when I hover over the navigation links (e.g. Computing), I expect to change background colour.
 
+As a user, when I hover over the social links (e.g. YouTube), I expect to change background colour. 
+
 ### Information Architecture
 
 The personal website consists of Computing and Holidays.
@@ -44,3 +46,27 @@ This project uses HTML5, CSS3 and Bootstrap 4.5.0.  The holidays page uses the c
 
 Additional technologies include Font Awesome 5.14.0 and Google Fonts (e.g. Roboto).
 
+## Deployment
+
+This project is deployed on [GitHub Pages](https://derektypist.github.io/personal-website) at the master branch.
+
+To update any changes, use the command
+    
+    git push
+
+at the terminal window.
+
+## Credits
+
+### Content
+
+Written by myself.
+
+### Media
+
+All pictures were taken by myself.  In the holidays page, all pictures are for illustration purposes only.
+They are designed to give you an idea of what you may be visiting.
+
+### Acknowledgements
+
+The [Get Bootstrap](https://www.getbootstrap.com) website for the card components.
